@@ -1,10 +1,6 @@
-# italents
+# Atividade 01
 
-Revisão de conteúdo fullstack
-
-## Requisitos
-
-- Objeto que represente um Usuário contendo tudo que julgar necessário
+- Objeto que represente um Usuário.
 - Atributos e métodos
 
 ## Obrigatório
@@ -13,5 +9,3 @@ Revisão de conteúdo fullstack
 - Data de nascimento
 - Email
 - Senha
-
-##
