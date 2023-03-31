@@ -18,3 +18,7 @@
 - Idade
 - Maioridade
 <p>Os valores dos atributos Idade e Maioridade do objeto usuário, são atribuidos por meio de métodos do objeto.</p>
+
+### Client-side 
+
+[Cadastro de Usuários](https://github.com/edfragoso/italents/tree/main/CadastroDeUsuario)
