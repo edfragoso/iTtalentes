@@ -1,4 +1,4 @@
-# iTtalentes
+# italents
 Revisão de conteúdo fullstack
 # Cadastro De Usuários
 Atividade 01 - Avaliação Introdução ao NodeJS e JavaScript Intermediário
